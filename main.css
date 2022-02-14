@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(18, 18, 18);
+    color: rgb(255, 255, 255)
+}
+
+h1{
+    margin: 32px 0px;
+}
+
+.outline{
+    outline: 3px solid rgb(156, 166, 255);
+    margin-bottom: 25px;
+  
+
+}
+
+.cbtn{
+    display: flex;
+    justify-content: center;
+}
+
+.btn-b{
+    background-color: rgb(165, 166, 246);
+    margin: 0px 20px;
+}
+.btn-c{
+    background-color: rgb(94, 100, 255);
+}
+
+
